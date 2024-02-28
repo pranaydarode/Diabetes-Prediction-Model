@@ -38,6 +38,6 @@ F1-score: Harmonic mean of precision and recall.
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
 7. License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU(General Public License v3.0) -see the LICENSE file for details.
 
 Feel free to customize this README to suit your project’s specifics. Good luck with your diabetes prediction model! 🌟🩺
